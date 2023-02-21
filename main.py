@@ -1,4 +1,3 @@
-# Grupo:
 def matriz_multiplicador(A, B):
     if len(A[0]) != len(B):
         print("Erro: O número de colunas da primeira matriz deve ser igual ao número de linhas da segunda matriz.")
